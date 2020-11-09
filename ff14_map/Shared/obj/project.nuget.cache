@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "k1u1zWPEkKZatlkVYsVkBMYJ2CDPno2t8joPj1GBEKUveHukcjaruLOQxs/pOcn74y1obDuYxpFR30Fa0MUb9w==",
+  "success": true,
+  "projectFilePath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\ff14_map.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeskPC\\.nuget\\packages\\opencvsharp4\\4.5.0.20201013\\opencvsharp4.4.5.0.20201013.nupkg.sha512",
+    "C:\\Users\\DeskPC\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.0.20201013\\opencvsharp4.runtime.win.4.5.0.20201013.nupkg.sha512",
+    "C:\\Users\\DeskPC\\.nuget\\packages\\opencvsharp4.windows\\4.5.0.20201013\\opencvsharp4.windows.4.5.0.20201013.nupkg.sha512",
+    "C:\\Users\\DeskPC\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\DeskPC\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\DeskPC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\DeskPC\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\DeskPC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

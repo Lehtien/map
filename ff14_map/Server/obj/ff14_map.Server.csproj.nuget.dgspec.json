@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Server\\ff14_map.Server.csproj": {}
+  },
+  "projects": {
+    "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\ff14_map.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\ff14_map.Client.csproj",
+        "projectName": "ff14_map.Client",
+        "projectPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\ff14_map.Client.csproj",
+        "packagesPath": "C:\\Users\\DeskPC\\.nuget\\packages\\",
+        "outputPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DeskPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\ff14_map.Shared.csproj": {
+                "projectPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\ff14_map.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.5.0.20201013, )"
+            },
+            "OpenCvSharp4.Windows": {
+              "target": "Package",
+              "version": "[4.5.0.20201013, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Server\\ff14_map.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Server\\ff14_map.Server.csproj",
+        "projectName": "ff14_map.Server",
+        "projectPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Server\\ff14_map.Server.csproj",
+        "packagesPath": "C:\\Users\\DeskPC\\.nuget\\packages\\",
+        "outputPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DeskPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\ff14_map.Client.csproj": {
+                "projectPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\ff14_map.Client.csproj"
+              },
+              "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\ff14_map.Shared.csproj": {
+                "projectPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\ff14_map.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.5.0.20201013, )"
+            },
+            "OpenCvSharp4.Windows": {
+              "target": "Package",
+              "version": "[4.5.0.20201013, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\ff14_map.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\ff14_map.Shared.csproj",
+        "projectName": "ff14_map.Shared",
+        "projectPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\ff14_map.Shared.csproj",
+        "packagesPath": "C:\\Users\\DeskPC\\.nuget\\packages\\",
+        "outputPath": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DeskPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "OpenCvSharp4": {
+              "target": "Package",
+              "version": "[4.5.0.20201013, )"
+            },
+            "OpenCvSharp4.Windows": {
+              "target": "Package",
+              "version": "[4.5.0.20201013, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

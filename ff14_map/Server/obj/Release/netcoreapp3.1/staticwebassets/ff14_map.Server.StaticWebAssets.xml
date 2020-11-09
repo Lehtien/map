@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="E:\DE\VisualStudio\ff14_map\ff14_map\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="E:\DE\VisualStudio\ff14_map\ff14_map\Client\bin\Release\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/BlazorInputFile" Path="C:\Users\DeskPC\.nuget\packages\blazorinputfile\0.2.0\build\..\staticwebassets\" />
+</StaticWebAssets>
