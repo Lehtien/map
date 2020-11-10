@@ -54,6 +54,11 @@
     {
         <p>取得に失敗しました。</p>
     }
+
+    @if (err != null)
+    {
+        <p class="err">@err</p>
+    }
 </div>
 
 <style type="text/css">
@@ -111,12 +116,20 @@
         min-width: 720px;
         min-height: 100px;
     }
+
+    .err {
+        position: relative;
+        top: 1rem;
+        font-size: 1.1rem;
+        color: red;
+    }
 </style>
 
 @code {
     private Maps[] data;
     private string path = @"images\map\G12\";
     private string src;
+    private string err;
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
@@ -134,9 +147,15 @@
 
         if (!string.IsNullOrWhiteSpace(src))
         {
-            //data = await Http.GetFromJsonAsync<G12[]>($"G12?src={src}");
             using var response = await Http.PostAsJsonAsync<string>("G12", src);
             data = await response.Content.ReadFromJsonAsync<Maps[]>();
+            err = null;
         }
+        else
+        {
+            data = null;
+            err = "*画像が大きすぎます。";
+        }
+
     }
 }

@@ -21,13 +21,21 @@
                 const element = document.getElementById("outputImage");
                 if (element) {
                     const base64 = document.getElementById("outputImage").src;
+                    if (element.naturalWidth > 640 && element.naturalHeight > 480) {
+                        reject(null);
+                        return;
+                    }
                     resolve(base64);
                 }
             });
         });
-        return promise;
+        return promise.then((val) => {
+            return val;
+        }).catch((error) => {
+            return error;
+        });
     },
-    focusInput: function() {
+    focusInput: function () {
         document.getElementById("inputImage").focus();
     }
 }
