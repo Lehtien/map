@@ -49,6 +49,12 @@ namespace ff14_map.Server.Worker
                     return new Maps[0];
                 }
 
+                var size = mat.Size();
+                if (size.Width > 640 || size.Height > 480)
+                {
+                    return new Maps[0];
+                }
+
                 akaze.DetectAndCompute(mat, null, out KeyPoint[] key_point1, descriptor1);
 
                 foreach (Map map in maps)

@@ -6,3 +6,4 @@ E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Release\netstandard2.1\ff14_map.
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Release\netstandard2.1\ff14_map.Shared.csproj.CoreCompileInputs.cache
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Release\netstandard2.1\ff14_map.Shared.dll
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Release\netstandard2.1\ff14_map.Shared.pdb
+E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Release\netstandard2.1\ff14_map.Shared.csprojAssemblyReference.cache

@@ -21,7 +21,7 @@
                 const element = document.getElementById("outputImage");
                 if (element) {
                     const base64 = document.getElementById("outputImage").src;
-                    if (element.naturalWidth > 640 && element.naturalHeight > 480) {
+                    if (element.naturalWidth > 640 || element.naturalHeight > 480) {
                         reject(null);
                         return;
                     }
