@@ -5,11 +5,11 @@
       "url": "_content\/BlazorInputFile\/inputfile.js"
     },
     {
-      "hash": "sha256-ihsugAm\/4IG\/eIoDe9WqUcSek8XXN7TAKUmzjWLMCQg=",
+      "hash": "sha256-yQRRSqkcLQBQtWliLlB0X3xYvuGIuOZKFU0Hu7SdV+g=",
       "url": "clipboard.js"
     },
     {
-      "hash": "sha256-jkTdnw69qsiP78xopw0sFUaXGHE7yhOzfKRuU\/8jTE8=",
+      "hash": "sha256-2ft3q9252Yy3foS4ie\/QDeJFrMUeXmW4XDNkiDPlr54=",
       "url": "css\/app.css"
     },
     {
@@ -57,11 +57,11 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU\/+39dni9E0=",
+      "hash": "sha256-ai2YKLVKUQmLaXSGGvcA96iTSYNtmd0JIMeGNSPgO5g=",
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-IpHFcQvs03lh6W54zoeJRG1jW+VnGmwymzxLoXtKX7Y=",
+      "hash": "sha256-L11llqwI7VT78Lq\/RVZGmTixZa3bpe5cB86wfzfH+8I=",
       "url": "icon-512.png"
     },
     {
@@ -281,7 +281,7 @@
       "url": "images\/map\/G12\/tempest_H.jpg"
     },
     {
-      "hash": "sha256-0qHFRrA3DeKgxwh2bDtWqmy0upi6LCj6RvIWVY7RaqE=",
+      "hash": "sha256-UXHA2l7wuvf26qFIVn6ptUXEuEazTFDfS1chKmgCYEc=",
       "url": "index.html"
     },
     {
@@ -309,7 +309,7 @@
       "url": "_framework\/_bin\/ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll"
     },
     {
-      "hash": "sha256-rTqIUSF2zyFr6TNdONCqVuqXvsTm7nFH1wA6B994FSU=",
+      "hash": "sha256-sS2BGOOqIqZr8tVY6m\/e6PdyZ2d4EL+2co0AfE4qy4Y=",
       "url": "_framework\/_bin\/ff14_map.Client.dll"
     },
     {
@@ -521,7 +521,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-yNUCY\/YL\/WfXe9ccr7NSycB5iaozA1lPfBMUqzHiK4o=",
+      "hash": "sha256-BBqlJ0GjFR7yQb4ghrlkL1ZkKHL67aUhQz3LAZ7idUo=",
       "url": "_framework\/_bin\/ff14_map.Client.pdb"
     },
     {
@@ -545,9 +545,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-FeWjSuwjdd8H9i+UFgGXBERI4W0r\/NBUgZCIr7cfFuo=",
+      "hash": "sha256-lAlJcEYlS\/avv69MC1RZrQ2T06WRah1jcr62vZ041wk=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "NPA0pVsg"
+  "version": "vJDh6vK1"
 };

@@ -6,7 +6,7 @@
 
 <div class="g12">
     <header>
-        <h1>【FF14】宝の地図G12MAP 座標探索</h1>
+        <h1>【FF14】宝の地図G12 座標探索</h1>
         <p class="caption">宝の地図を楽に探せたらいいなというサイトです。</p>
     </header>
     <br />
@@ -33,20 +33,20 @@
                 <th colspan="2" class="underline">候補2</th>
             </tr>
             <tr>
-                <td><img class="map" src="@(path + data[0].Map.FileName)" alt="map" asp-append-version="true"></td>
+                <td><img class="map" src="@(path + data[0].Map.FileName)" alt="第1候補の地図座標(G12)" asp-append-version="true"></td>
                 <td>
                     <p><strong>@data[0].Map.Area</strong></p>
                     <p class="coordinate"><strong>@($"{data[0].Map.Point} ({data[0].Map.X.ToString("F1")}, {data[0].Map.Y.ToString("F1")}) Z:{data[0].Map.Z.ToString("F1")}")</strong></p>
                 </td>
-                <td><img class="map" src="@(path + data[1].Map.FileName)" alt="map" asp-append-version="true"></td>
+                <td><img class="map" src="@(path + data[1].Map.FileName)" alt="第2候補の地図座標(G12)" asp-append-version="true"></td>
                 <td>
                     <p><strong>@data[1].Map.Area</strong></p>
                     <p class="coordinate"><strong>@($"{data[1].Map.Point} ({data[1].Map.X.ToString("F1")}, {data[1].Map.Y.ToString("F1")}) Z:{data[1].Map.Z.ToString("F1")}")</strong></p>
                 </td>
             </tr>
             <tr>
-                <td colspan="2"><img class="map" src="@(path + data[0].WholeMap.FileName)" alt="wholemap" asp-append-version="true"></td>
-                <td colspan="2"><img class="map" src="@(path + data[1].WholeMap.FileName)" alt="wholemap" asp-append-version="true"></td>
+                <td colspan="2"><img class="map" src="@(path + data[0].WholeMap.FileName)" alt="第1候補の全体地図(G12)" asp-append-version="true"></td>
+                <td colspan="2"><img class="map" src="@(path + data[1].WholeMap.FileName)" alt="第2候補の全体地図(G12)" asp-append-version="true"></td>
             </tr>
         </table>
     }

@@ -105,7 +105,8 @@ app {
     right: 0;
     bottom: 0;
     margin: auto;
-    min-height: 100vh;
+    margin-top: 1.3rem;
+    min-height: 93.5vh;
     width: 70%;
     min-width: 1110px;
     box-shadow: 0 0 5px 1px gray;
@@ -114,6 +115,10 @@ app {
 
 body {
     background-color: #ffd1a3;
+}
+
+footer {
+    text-align: center;
 }
 
 .navbar-toggler {
