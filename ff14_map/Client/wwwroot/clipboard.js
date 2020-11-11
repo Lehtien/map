@@ -37,5 +37,5 @@
     },
     focusInput: function () {
         document.getElementById("inputImage").focus();
-    }
+    },
 }

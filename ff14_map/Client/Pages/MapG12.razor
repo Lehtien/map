@@ -59,6 +59,20 @@
     {
         <p class="err">@err</p>
     }
+
+    @if (load)
+    {
+        <div class="load-wrap">
+            <div class="load">
+                <div class="scaling-squares-spinner">
+                    <div class="square"></div>
+                    <div class="square"></div>
+                    <div class="square"></div>
+                    <div class="square"></div>
+                </div>
+            </div>
+        </div>
+    }
 </div>
 
 <style type="text/css">
@@ -130,6 +144,7 @@
     private string path = @"images\map\G12\";
     private string src;
     private string err;
+    private bool load = false;
 
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
@@ -142,6 +157,7 @@
 
     private async Task InputImage()
     {
+        load = true;
         await JS.InvokeVoidAsync("getClipboardImage.setImage");
         src = await JS.InvokeAsync<string>("getClipboardImage.getImage");
 
@@ -156,6 +172,6 @@
             data = null;
             err = "*画像が大きすぎます。";
         }
-
+        load = false;
     }
 }

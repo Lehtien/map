@@ -5,11 +5,11 @@
       "url": "_content\/BlazorInputFile\/inputfile.js"
     },
     {
-      "hash": "sha256-yQRRSqkcLQBQtWliLlB0X3xYvuGIuOZKFU0Hu7SdV+g=",
+      "hash": "sha256-lw9usiLlxpsJuBJqJy0QFjf5iFZP7KV8+5GROp92J+Y=",
       "url": "clipboard.js"
     },
     {
-      "hash": "sha256-jkTdnw69qsiP78xopw0sFUaXGHE7yhOzfKRuU\/8jTE8=",
+      "hash": "sha256-d8Mf976SqIuTS6G9+6oeJovLAobkpIcuPMb28TInP2c=",
       "url": "css\/app.css"
     },
     {
@@ -57,11 +57,11 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
-      "hash": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU\/+39dni9E0=",
+      "hash": "sha256-ai2YKLVKUQmLaXSGGvcA96iTSYNtmd0JIMeGNSPgO5g=",
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-IpHFcQvs03lh6W54zoeJRG1jW+VnGmwymzxLoXtKX7Y=",
+      "hash": "sha256-L11llqwI7VT78Lq\/RVZGmTixZa3bpe5cB86wfzfH+8I=",
       "url": "icon-512.png"
     },
     {
@@ -281,7 +281,7 @@
       "url": "images\/map\/G12\/tempest_H.jpg"
     },
     {
-      "hash": "sha256-0qHFRrA3DeKgxwh2bDtWqmy0upi6LCj6RvIWVY7RaqE=",
+      "hash": "sha256-Gurv6iMrNxKq18he8Xw33Du5mnejTxXHurGUfMg8M7M=",
       "url": "index.html"
     },
     {
@@ -309,7 +309,7 @@
       "url": "_framework\/_bin\/ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll"
     },
     {
-      "hash": "sha256-yaf8+mJHxHYLRI1U29b7CqAY37uCA9le\/uybpaAV7kY=",
+      "hash": "sha256-S+Jj61kPYt+C1IIlP3P+Paf8+O9C0I68KpWaV1jO9\/M=",
       "url": "_framework\/_bin\/ff14_map.Client.dll"
     },
     {
@@ -537,9 +537,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-NUSalP+gPOFGWY0uuKiS3JJwiG3PsLeeahyLQ9KGMnU=",
+      "hash": "sha256-31zj7ml\/FyII+ldxb92MNaXCSi7r58vojNJvAumr8Rs=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "hcxWMHn3"
+  "version": "dsw2Whgi"
 };

@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "ff14_map.Client.dll": "sha256-sS2BGOOqIqZr8tVY6m\/e6PdyZ2d4EL+2co0AfE4qy4Y=",
+      "ff14_map.Client.dll": "sha256-GhnyLdTAoLqqOJ23USAchcLcCplydk\/99qYm2v+7OSo=",
       "System.Text.Json.dll": "sha256-HQeN+ZfHAERO+uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -61,7 +61,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "ff14_map.Client.pdb": "sha256-BBqlJ0GjFR7yQb4ghrlkL1ZkKHL67aUhQz3LAZ7idUo=",
+      "ff14_map.Client.pdb": "sha256-Ab\/XDZQydO2puhMGBFfeZEwPPSRB1zqGABj8wh5IOsA=",
       "ff14_map.Shared.pdb": "sha256-CARms4jhpGJ6ZyIGywSsU89MGr1v3CuZzo1244ghjs8="
     },
     "runtime": {
