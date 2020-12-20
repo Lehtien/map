@@ -45,8 +45,18 @@
                 </td>
             </tr>
             <tr>
-                <td colspan="2"><img class="map" src="@(path + data[0].WholeMap.FileName)" alt="第1候補の全体地図(G12)" asp-append-version="true"></td>
-                <td colspan="2"><img class="map" src="@(path + data[1].WholeMap.FileName)" alt="第2候補の全体地図(G12)" asp-append-version="true"></td>
+                <td colspan="2">
+                    <div class="position-relative d-inline-block">
+                        <img class="map" src="@(path + data[0].WholeMap.FileName)" alt="第1候補の全体地図(G12)" asp-append-version="true">
+                        <span class="circle circle-1"></span>
+                    </div>
+                </td>
+                <td colspan="2">
+                    <div class="position-relative d-inline-block">
+                        <img class="map" src="@(path + data[1].WholeMap.FileName)" alt="第2候補の全体地図(G12)" asp-append-version="true">
+                        <span class="circle circle-2"></span>
+                    </div>
+                </td>
             </tr>
         </table>
     }
@@ -62,7 +72,7 @@
 
     @if (load)
     {
-        <div class="load-wrap">
+        <div class="load-wrap bg-gray">
             <div class="load">
                 <div class="scaling-squares-spinner">
                     <div class="square"></div>
@@ -137,6 +147,35 @@
         font-size: 1.1rem;
         color: red;
     }
+
+    .circle {
+        position: absolute;
+        top: 0;
+        left: 0;
+        display: inline-block;
+        width: 4rem;
+        height: 4rem;
+        border-radius: 50%;
+        border: solid 0.2rem red;
+        animation: sizeScale 1.3s infinite;
+    }
+
+    .circle-1 {
+        top: 0;
+        left: 0;
+    }
+
+    @@keyframes sizeScale {
+        from {
+            transform: translate(-50%, -50%) scale(1.3);
+            opacity: 0;
+        }
+
+        to {
+            transform: translate(-50%, -50%) scale(1);
+            opacity: 1;
+        }
+    }
 </style>
 
 @code {
@@ -160,17 +199,20 @@
         load = true;
         await JS.InvokeVoidAsync("getClipboardImage.setImage");
         src = await JS.InvokeAsync<string>("getClipboardImage.getImage");
-
         if (!string.IsNullOrWhiteSpace(src))
         {
             using var response = await Http.PostAsJsonAsync<string>("G12", src);
             data = await response.Content.ReadFromJsonAsync<Maps[]>();
+            if (data.Length != 0)
+            {
+                await JS.InvokeVoidAsync("getClipboardImage.aim", data[0].Map, data[1].Map);
+            }
             err = null;
         }
         else
         {
             data = null;
-            err = "*画像が大きすぎます。";
+            err = "*画像の読み込みに失敗しました。(画像が大きい可能性があります。)";
         }
         load = false;
     }

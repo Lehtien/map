@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ff14treasurehunt" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Server\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

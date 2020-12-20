@@ -5,3 +5,7 @@
 [1105/185632.550:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
 [1106/165641.827:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
 [1106/185209.126:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+[1220/142243.730:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+[1220/143511.237:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+[1220/144825.615:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)
+[1220/153728.196:ERROR:directory_reader_win.cc(43)] FindFirstFile: 指定されたパスが見つかりません。 (0x3)

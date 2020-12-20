@@ -5,6 +5,7 @@
     <RazorLangVersion>3.0</RazorLangVersion>
     <ServiceWorkerAssetsManifest>service-worker-assets.js</ServiceWorkerAssetsManifest>
     <BlazorWebAssemblyEnableLinking>false</BlazorWebAssemblyEnableLinking>
+    <Platforms>AnyCPU;x64;x86</Platforms>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

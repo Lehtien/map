@@ -10,7 +10,7 @@ using System.Reflection.PortableExecutable;
 using ff14_map.Server.Worker;
 using System.Drawing;
 using System.Windows.Forms;
-using ff14_map.Client.Pages;
+using Microsoft.AspNetCore.Hosting;
 
 namespace ff14_map.Server.Controllers
 {
@@ -18,7 +18,9 @@ namespace ff14_map.Server.Controllers
     [Route("[controller]")]
     public class G12Controller : ControllerBase
     {
-        const string RelativePath = @"..\Client\wwwroot\images\map\G12\";
+        const string RelativePath = @"wwwroot\images\map\G12\";
+        //const string RelativePath = @"..\Client\wwwroot\images\map\G12\";
+
         private static readonly Map[] G12 = new[]
         {
             // アム・アレーン
@@ -144,7 +146,7 @@ namespace ff14_map.Server.Controllers
             {
                 FileName = "ilMheg_F.jpg",
                 Area = "イル・メグ",
-                Point = "A",
+                Point = "F",
                 X = 7.3,
                 Y = 17.4,
                 Z = 0.3
@@ -502,6 +504,7 @@ namespace ff14_map.Server.Controllers
         public G12Controller(ILogger<G12Controller> logger)
         {
             this.logger = logger;
+
         }
 
         //[HttpGet]
@@ -519,6 +522,7 @@ namespace ff14_map.Server.Controllers
             }
             catch (Exception e)
             {
+                logger.LogError(e.Message);
                 logger.LogError(e.StackTrace);
                 return new Maps[0];
             }

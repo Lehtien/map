@@ -1,0 +1,7 @@
+﻿<SatelliteAssembly>
+  <Assembly Name="C:\Windows\Microsoft.NET\Framework\v4.0.30319\ja\System.Windows.Forms.resources.dll" Culture="ja" DestinationSubDirectory="ja\" />
+  <Assembly Name="C:\Windows\Microsoft.NET\Framework\v4.0.30319\ja\System.Security.resources.dll" Culture="ja" DestinationSubDirectory="ja\" />
+  <Assembly Name="C:\Windows\Microsoft.NET\Framework\v4.0.30319\ja\System.Configuration.resources.dll" Culture="ja" DestinationSubDirectory="ja\" />
+  <Assembly Name="C:\Windows\Microsoft.NET\Framework\v4.0.30319\ja\System.Deployment.resources.dll" Culture="ja" DestinationSubDirectory="ja\" />
+  <Assembly Name="C:\Windows\Microsoft.NET\Framework\v4.0.30319\ja\System.Runtime.Serialization.Formatters.Soap.resources.dll" Culture="ja" DestinationSubDirectory="ja\" />
+</SatelliteAssembly>

@@ -226,3 +226,7 @@ E:\DE\VisualStudio\ff14_map\ff14_map\Server\obj\Debug\netcoreapp3.1\staticwebass
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\obj\Debug\netcoreapp3.1\ff14_map.Server.dll
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\obj\Debug\netcoreapp3.1\ff14_map.Server.pdb
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\obj\Debug\netcoreapp3.1\ff14_map.Server.genruntimeconfig.cache
+E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ff14map\profile.arm.json
+E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\ff14treasurehunt - Web Deploy\profile.arm.json

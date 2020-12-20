@@ -1,9 +1,9 @@
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\bin\Debug\netstandard2.1\ff14_map.Shared.deps.json
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\bin\Debug\netstandard2.1\ff14_map.Shared.dll
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\bin\Debug\netstandard2.1\ff14_map.Shared.pdb
-E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Debug\netstandard2.1\ff14_map.Shared.csprojAssemblyReference.cache
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Debug\netstandard2.1\ff14_map.Shared.AssemblyInfoInputs.cache
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Debug\netstandard2.1\ff14_map.Shared.AssemblyInfo.cs
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Debug\netstandard2.1\ff14_map.Shared.csproj.CoreCompileInputs.cache
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Debug\netstandard2.1\ff14_map.Shared.dll
 E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Debug\netstandard2.1\ff14_map.Shared.pdb
+E:\DE\VisualStudio\ff14_map\ff14_map\Shared\obj\Debug\netstandard2.1\ff14_map.Shared.csprojAssemblyReference.cache

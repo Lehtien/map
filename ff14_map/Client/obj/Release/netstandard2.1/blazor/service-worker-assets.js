@@ -5,11 +5,11 @@
       "url": "_content\/BlazorInputFile\/inputfile.js"
     },
     {
-      "hash": "sha256-lw9usiLlxpsJuBJqJy0QFjf5iFZP7KV8+5GROp92J+Y=",
+      "hash": "sha256-CeVmZcnCyGH3F1MmCFNhKxpgV9yHRjKxWHbjfwc0ppI=",
       "url": "clipboard.js"
     },
     {
-      "hash": "sha256-d8Mf976SqIuTS6G9+6oeJovLAobkpIcuPMb28TInP2c=",
+      "hash": "sha256-7OV9otVErNF8grqIAwjKe25bW9Y8W9lH9EJ5YUUGSPU=",
       "url": "css\/app.css"
     },
     {
@@ -281,7 +281,7 @@
       "url": "images\/map\/G12\/tempest_H.jpg"
     },
     {
-      "hash": "sha256-Gurv6iMrNxKq18he8Xw33Du5mnejTxXHurGUfMg8M7M=",
+      "hash": "sha256-ljgauXi9o4c+KgYbZUtxwpea5mcm6MPCMSLiNx8hD1A=",
       "url": "index.html"
     },
     {
@@ -309,7 +309,7 @@
       "url": "_framework\/_bin\/ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll"
     },
     {
-      "hash": "sha256-S+Jj61kPYt+C1IIlP3P+Paf8+O9C0I68KpWaV1jO9\/M=",
+      "hash": "sha256-Oyx7kkmyC9awpAW4UnjXq+ghrgrGSVu9J5PoIjG5tGY=",
       "url": "_framework\/_bin\/ff14_map.Client.dll"
     },
     {
@@ -537,9 +537,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-31zj7ml\/FyII+ldxb92MNaXCSi7r58vojNJvAumr8Rs=",
+      "hash": "sha256-Ik1UEji1lzG0YnoT9yYa3gMqfEYTzAGI4IdWmjY7GRY=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "dsw2Whgi"
+  "version": "zaEJyRhs"
 };
