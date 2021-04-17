@@ -1,32 +1,32 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\l1ULtAmGpVe3b8T11EKC4yh0BoWX7y1sCelNAR8t9FA=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\bV9Y9S_6Cbe33j8qlMdw_tdA5iyS8V1EmMtYnenh_ws=.hash",
       "Source": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\ja\\System.Windows.Forms.resources.dll",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ja\/System.Windows.Forms.resources.dll.br"
     },
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\9JXZj-aaS_-O0_2JuxE91HAY4j_lhRjfUNXG574QAgc=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\yK3Js2_tX4BYk9PnzF5DKVqCQxadARYxK5Grx0q_ePE=.hash",
       "Source": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\ja\\System.Security.resources.dll",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ja\/System.Security.resources.dll.br"
     },
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\FAI3e2EYWY-b1ilOswd0kGzdZjOUo3MlniK9Z2Dxq2c=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\w0yntX_SFRpQQZPVE71xRsPqW0LiavxFdK72mQyXjFo=.hash",
       "Source": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\ja\\System.Configuration.resources.dll",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ja\/System.Configuration.resources.dll.br"
     },
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\vEVOxgSgoQD-3TWR1_RexcSn1y6kys7bh3dS2sWZpGE=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\cA24mKpgTErDk3jiB8Nw4ddSFxvTEff7q7MNWdus-nM=.hash",
       "Source": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\ja\\System.Deployment.resources.dll",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ja\/System.Deployment.resources.dll.br"
     },
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\2O4xYTLHGIl8z-Dtli1Y94040ud6WbcLVp41YL78gmE=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\S-IrzIl1eOrhFh66c07cw8UZk5tseXaMQkZHApiT0nE=.hash",
       "Source": "C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\ja\\System.Runtime.Serialization.Formatters.Soap.resources.dll",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll.br"
     },
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\aVaFC_g12TG7vKgkf54Vdv41aABxtRxYcqh5Np3wij0=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\CuIRjXbQpoALTrSz6iNLL-6MncdCuQIyFeQghjRDmpM=.hash",
       "Source": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\obj\\x64\\Debug\\netstandard2.1\\blazor\\unlinked\\ff14_map.Client.dll",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ff14_map.Client.dll.br"
     },
@@ -291,7 +291,7 @@
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\hupfm3bVlnnBUhmutba1mfjkJZ1VKOmVQLl7hTATcus=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\QN-YgElQfD6BsIw1xfRUlU3X4DTF58krVXIvZzE3sJ8=.hash",
       "Source": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\obj\\x64\\Debug\\netstandard2.1\\blazor\\unlinked\\ff14_map.Client.pdb",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/ff14_map.Client.pdb.br"
     },
@@ -321,12 +321,12 @@
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\gs7lKd7dZ79pjJHmsQ696RKmjd-1-Wm4RJEebiddESA=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\6zopPuvFo0cZqr5frz4T20XAMiVO4bWzz2_no6UKLlU=.hash",
       "Source": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\obj\\x64\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\wMrexGMq1Q7IAxDcTH6TQHzMLfUPvMPdYBOc7ys1euU=.hash",
+      "InputSource": "obj\\x64\\Debug\\netstandard2.1\\integrity\\sl7Ym9typJkFpUAJP_Qka4m0c39UWAjoCWIbFXmOjUY=.hash",
       "Source": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\obj\\x64\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\x64\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

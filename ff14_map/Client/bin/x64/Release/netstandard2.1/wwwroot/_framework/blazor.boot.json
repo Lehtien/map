@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "ff14_map.Client.dll": "sha256-iMWy697gNaKDWPU\/GuNB\/OzASuwINNmdcQOT6\/RyCcA=",
+      "ff14_map.Client.dll": "sha256-xo7KCuuNqQQYJaFo76WIyJgCXZ176PRdktp7doI2VOM=",
       "System.Text.Json.dll": "sha256-HQeN+ZfHAERO+uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -45,7 +45,7 @@
       "Microsoft.AspNetCore.Components.dll": "sha256-PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=",
       "Microsoft.Extensions.Logging.Abstractions.dll": "sha256-6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=",
       "Microsoft.JSInterop.dll": "sha256-LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=",
-      "ff14_map.Shared.dll": "sha256-SmreEpajwTU3IABpO7RJrwbTeZ0sqN86FiNmC2O2Z4Y=",
+      "ff14_map.Shared.dll": "sha256-c+GwctmFNPaMcHmyFYLJvphxAvovDQDmfCEVF+W7zU4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-FJ+rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=",
       "Microsoft.Extensions.DependencyInjection.dll": "sha256-oK1Bjv95fH+hSbogUkJE+xDAI203kJG6lL6Sm\/NuPWg=",
       "Microsoft.Extensions.Primitives.dll": "sha256-y\/FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK+gtKc=",
@@ -68,11 +68,11 @@
     },
     "satelliteResources": {
       "ja": {
-        "ja\/System.Windows.Forms.resources.dll": "sha256-l1ULtAmGpVe3b8T11EKC4yh0BoWX7y1sCelNAR8t9FA=",
-        "ja\/System.Security.resources.dll": "sha256-9JXZj\/aaS+\/O0+2JuxE91HAY4j+lhRjfUNXG574QAgc=",
-        "ja\/System.Configuration.resources.dll": "sha256-FAI3e2EYWY\/b1ilOswd0kGzdZjOUo3MlniK9Z2Dxq2c=",
-        "ja\/System.Deployment.resources.dll": "sha256-vEVOxgSgoQD\/3TWR1+RexcSn1y6kys7bh3dS2sWZpGE=",
-        "ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll": "sha256-2O4xYTLHGIl8z\/Dtli1Y94040ud6WbcLVp41YL78gmE="
+        "ja\/System.Windows.Forms.resources.dll": "sha256-bV9Y9S+6Cbe33j8qlMdw+tdA5iyS8V1EmMtYnenh+ws=",
+        "ja\/System.Security.resources.dll": "sha256-yK3Js2+tX4BYk9PnzF5DKVqCQxadARYxK5Grx0q+ePE=",
+        "ja\/System.Configuration.resources.dll": "sha256-w0yntX+SFRpQQZPVE71xRsPqW0LiavxFdK72mQyXjFo=",
+        "ja\/System.Deployment.resources.dll": "sha256-cA24mKpgTErDk3jiB8Nw4ddSFxvTEff7q7MNWdus\/nM=",
+        "ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll": "sha256-S\/IrzIl1eOrhFh66c07cw8UZk5tseXaMQkZHApiT0nE="
       }
     }
   }

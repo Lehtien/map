@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "ff14_map.Client.dll": "sha256-aVaFC+g12TG7vKgkf54Vdv41aABxtRxYcqh5Np3wij0=",
+      "ff14_map.Client.dll": "sha256-CuIRjXbQpoALTrSz6iNLL\/6MncdCuQIyFeQghjRDmpM=",
       "System.Text.Json.dll": "sha256-HQeN+ZfHAERO+uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -61,7 +61,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "ff14_map.Client.pdb": "sha256-hupfm3bVlnnBUhmutba1mfjkJZ1VKOmVQLl7hTATcus=",
+      "ff14_map.Client.pdb": "sha256-QN\/YgElQfD6BsIw1xfRUlU3X4DTF58krVXIvZzE3sJ8=",
       "ff14_map.Shared.pdb": "sha256-QRDgqu6jEbu8FEqbwv8dqnLLq78cGq4uueqARe32UsY="
     },
     "runtime": {
@@ -71,11 +71,11 @@
     },
     "satelliteResources": {
       "ja": {
-        "ja\/System.Windows.Forms.resources.dll": "sha256-l1ULtAmGpVe3b8T11EKC4yh0BoWX7y1sCelNAR8t9FA=",
-        "ja\/System.Security.resources.dll": "sha256-9JXZj\/aaS+\/O0+2JuxE91HAY4j+lhRjfUNXG574QAgc=",
-        "ja\/System.Configuration.resources.dll": "sha256-FAI3e2EYWY\/b1ilOswd0kGzdZjOUo3MlniK9Z2Dxq2c=",
-        "ja\/System.Deployment.resources.dll": "sha256-vEVOxgSgoQD\/3TWR1+RexcSn1y6kys7bh3dS2sWZpGE=",
-        "ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll": "sha256-2O4xYTLHGIl8z\/Dtli1Y94040ud6WbcLVp41YL78gmE="
+        "ja\/System.Windows.Forms.resources.dll": "sha256-bV9Y9S+6Cbe33j8qlMdw+tdA5iyS8V1EmMtYnenh+ws=",
+        "ja\/System.Security.resources.dll": "sha256-yK3Js2+tX4BYk9PnzF5DKVqCQxadARYxK5Grx0q+ePE=",
+        "ja\/System.Configuration.resources.dll": "sha256-w0yntX+SFRpQQZPVE71xRsPqW0LiavxFdK72mQyXjFo=",
+        "ja\/System.Deployment.resources.dll": "sha256-cA24mKpgTErDk3jiB8Nw4ddSFxvTEff7q7MNWdus\/nM=",
+        "ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll": "sha256-S\/IrzIl1eOrhFh66c07cw8UZk5tseXaMQkZHApiT0nE="
       }
     }
   }

@@ -5,6 +5,7 @@ E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\appset
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\appsettings.json
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\Properties\serviceDependencies.json
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\Properties\serviceDependencies.local.json
+E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\Properties\ServiceDependencies\ff14treasurehunt - Web Deploy\profile.arm.json
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\BlazorDebugProxy\cs\Microsoft.CodeAnalysis.resources.dll
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\BlazorDebugProxy\de\Microsoft.CodeAnalysis.CSharp.resources.dll
@@ -228,4 +229,3 @@ E:\DE\VisualStudio\ff14_map\ff14_map\Server\obj\x64\Release\netcoreapp3.1\static
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\obj\x64\Release\netcoreapp3.1\ff14_map.Server.dll
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\obj\x64\Release\netcoreapp3.1\ff14_map.Server.pdb
 E:\DE\VisualStudio\ff14_map\ff14_map\Server\obj\x64\Release\netcoreapp3.1\ff14_map.Server.genruntimeconfig.cache
-E:\DE\VisualStudio\ff14_map\ff14_map\Server\bin\x64\Release\netcoreapp3.1\Properties\ServiceDependencies\ff14map\profile.arm.json

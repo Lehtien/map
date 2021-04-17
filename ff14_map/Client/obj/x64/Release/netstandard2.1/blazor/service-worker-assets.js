@@ -5,7 +5,7 @@
       "url": "_content\/BlazorInputFile\/inputfile.js"
     },
     {
-      "hash": "sha256-1\/6i+aDZZfelaI6BkQweQ56zTALBZeDCCoxqG03pwc8=",
+      "hash": "sha256-CeVmZcnCyGH3F1MmCFNhKxpgV9yHRjKxWHbjfwc0ppI=",
       "url": "clipboard.js"
     },
     {
@@ -281,7 +281,7 @@
       "url": "images\/map\/G12\/tempest_H.jpg"
     },
     {
-      "hash": "sha256-cLhphOOBf3iwlbSx3+uB7aENbudK0hZ5wk8xxJKnugg=",
+      "hash": "sha256-yHa5wXMdDZg\/ktDCF9UdtWMMxjOMAXWRbmXQVC8\/vIE=",
       "url": "index.html"
     },
     {
@@ -289,27 +289,27 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-l1ULtAmGpVe3b8T11EKC4yh0BoWX7y1sCelNAR8t9FA=",
+      "hash": "sha256-bV9Y9S+6Cbe33j8qlMdw+tdA5iyS8V1EmMtYnenh+ws=",
       "url": "_framework\/_bin\/ja\/System.Windows.Forms.resources.dll"
     },
     {
-      "hash": "sha256-9JXZj\/aaS+\/O0+2JuxE91HAY4j+lhRjfUNXG574QAgc=",
+      "hash": "sha256-yK3Js2+tX4BYk9PnzF5DKVqCQxadARYxK5Grx0q+ePE=",
       "url": "_framework\/_bin\/ja\/System.Security.resources.dll"
     },
     {
-      "hash": "sha256-FAI3e2EYWY\/b1ilOswd0kGzdZjOUo3MlniK9Z2Dxq2c=",
+      "hash": "sha256-w0yntX+SFRpQQZPVE71xRsPqW0LiavxFdK72mQyXjFo=",
       "url": "_framework\/_bin\/ja\/System.Configuration.resources.dll"
     },
     {
-      "hash": "sha256-vEVOxgSgoQD\/3TWR1+RexcSn1y6kys7bh3dS2sWZpGE=",
+      "hash": "sha256-cA24mKpgTErDk3jiB8Nw4ddSFxvTEff7q7MNWdus\/nM=",
       "url": "_framework\/_bin\/ja\/System.Deployment.resources.dll"
     },
     {
-      "hash": "sha256-2O4xYTLHGIl8z\/Dtli1Y94040ud6WbcLVp41YL78gmE=",
+      "hash": "sha256-S\/IrzIl1eOrhFh66c07cw8UZk5tseXaMQkZHApiT0nE=",
       "url": "_framework\/_bin\/ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll"
     },
     {
-      "hash": "sha256-iMWy697gNaKDWPU\/GuNB\/OzASuwINNmdcQOT6\/RyCcA=",
+      "hash": "sha256-xo7KCuuNqQQYJaFo76WIyJgCXZ176PRdktp7doI2VOM=",
       "url": "_framework\/_bin\/ff14_map.Client.dll"
     },
     {
@@ -465,7 +465,7 @@
       "url": "_framework\/_bin\/Microsoft.JSInterop.dll"
     },
     {
-      "hash": "sha256-SmreEpajwTU3IABpO7RJrwbTeZ0sqN86FiNmC2O2Z4Y=",
+      "hash": "sha256-c+GwctmFNPaMcHmyFYLJvphxAvovDQDmfCEVF+W7zU4=",
       "url": "_framework\/_bin\/ff14_map.Shared.dll"
     },
     {
@@ -537,9 +537,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-BScZyp9sXIcgfAZqhECUsZUH\/sLyuPGfR1V+TX7\/BsU=",
+      "hash": "sha256-Ah5CsEBzkySjKfrUB0PYAlNNRD9vd7QuL8tWcnf4XYc=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "os5nk3In"
+  "version": "\/Rgy6Xgq"
 };
