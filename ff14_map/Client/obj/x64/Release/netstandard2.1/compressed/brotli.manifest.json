@@ -26,7 +26,7 @@
       "Target": "obj\\x64\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/ja\/System.Runtime.Serialization.Formatters.Soap.resources.dll.br"
     },
     {
-      "InputSource": "obj\\x64\\Release\\netstandard2.1\\integrity\\xo7KCuuNqQQYJaFo76WIyJgCXZ176PRdktp7doI2VOM=.hash",
+      "InputSource": "obj\\x64\\Release\\netstandard2.1\\integrity\\BQ7qqsP1Tx5b-XM8_rtnIemY46pIfkE-npGI4o1g_u8=.hash",
       "Source": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\obj\\x64\\Release\\netstandard2.1\\blazor\\unlinked\\ff14_map.Client.dll",
       "Target": "obj\\x64\\Release\\netstandard2.1\\compressed\\_framework\/_bin\/ff14_map.Client.dll.br"
     },
@@ -311,12 +311,12 @@
       "Target": "obj\\x64\\Release\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\x64\\Release\\netstandard2.1\\integrity\\Ah5CsEBzkySjKfrUB0PYAlNNRD9vd7QuL8tWcnf4XYc=.hash",
+      "InputSource": "obj\\x64\\Release\\netstandard2.1\\integrity\\rcIXL3HJFEJ6tc5z9JhAC4q5pt61FCLdX2bvNsH26Eg=.hash",
       "Source": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\obj\\x64\\Release\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\x64\\Release\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\x64\\Release\\netstandard2.1\\integrity\\2GObZhzEfvT6MI3rxqsfvvb95CTu_pu07QYGUVqc-jU=.hash",
+      "InputSource": "obj\\x64\\Release\\netstandard2.1\\integrity\\8cJ0aSTb_ov56FBUlWFMLMSBJgdPTVJVBukEjZitWNU=.hash",
       "Source": "E:\\DE\\VisualStudio\\ff14_map\\ff14_map\\Client\\obj\\x64\\Release\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\x64\\Release\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

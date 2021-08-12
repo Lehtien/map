@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "ff14_map.Client.dll": "sha256-xo7KCuuNqQQYJaFo76WIyJgCXZ176PRdktp7doI2VOM=",
+      "ff14_map.Client.dll": "sha256-BQ7qqsP1Tx5b\/XM8+rtnIemY46pIfkE\/npGI4o1g+u8=",
       "System.Text.Json.dll": "sha256-HQeN+ZfHAERO+uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-kL\/omZDwqByAi+lPdMeDmr3XjHcn4RVb+LmZ4mut1Yc=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
